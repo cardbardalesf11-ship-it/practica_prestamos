@@ -275,13 +275,9 @@ Comprobaciones ejecutadas el **20 de noviembre de 2026** en la base
 
 ## GitHub
 
-GitHub CLI (`gh`) no está instalado en este equipo y no hay sesión autenticada
-disponible. El repositorio queda preparado localmente con un commit inicial y
-un ZIP de entrega. El único paso pendiente para publicarlo es:
+Repositorio público creado y verificado:
 
-```bash
-cd /Users/carlosdaniel/Documents/odoo/practica_prestamos
-git remote add origin https://github.com/TU_USUARIO/practica_prestamos.git
-git branch -M main
-git push -u origin main
-```
+**https://github.com/cardbardalesf11-ship-it/practica_prestamos**
+
+El repositorio contiene el commit inicial y el commit con el módulo completo,
+las pruebas y esta documentación. La rama principal es `main`.
