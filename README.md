@@ -237,6 +237,7 @@ practica_prestamos/
 │       ├── prestamo_equipo_views.xml
 │       ├── prestamo_views.xml
 │       └── res_partner_views.xml
+├── Evidencias_Prestamo_Equipo_Carlos_Bardales.pdf
 └── README.md
 ```
 
@@ -272,6 +273,12 @@ Comprobaciones ejecutadas el **20 de noviembre de 2026** en la base
 - Verificación de no regresión: `ventas_unicah`, `tienda_unicah` y
   `unicah_prestamos` siguen en estado **installed** con sus versiones
   originales; no se modificaron sus archivos.
+
+## Evidencias en PDF
+
+El archivo `Evidencias_Prestamo_Equipo_Carlos_Bardales.pdf` está incluido en
+este repositorio. Contiene 13 páginas con 10 capturas reales de Odoo y del
+repositorio, además del enlace final. Es el documento listo para subir a Moodle.
 
 ## GitHub
 
